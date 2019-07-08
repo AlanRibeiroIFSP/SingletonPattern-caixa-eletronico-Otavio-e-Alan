@@ -11,11 +11,11 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 </h4>
 
 
-#<p align="center">Passo a passo para o funcionamento do projeto</p>
+##<p align="center">Passo a passo para o funcionamento do projeto</p>
 <h3>
-<ul>1 Passo: Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.</ul>
+##1 Passo: Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
 
-<ul>2 Passo: Criação do banco de dados, ao fazer o download dos arquivos disponíveis aqui neste projeto existe um chamado dbcaixaeletronico.sql,  é através deste que será realizado a criação do banco, através do phpmyadmin disponível no Xampp, para isso o usuário deve criar o banco com o título  de dbcaixaeletronico em seguida importe o arquivo com extensão .sql.
-</ul>
-<ul>3 Passo: como este projeto não está compilado é necessário que rode ele no netbeans IDE de desenvolvimento de projetos java, sendo necessários todos os requisitos exigidos para tal funcionalidade.
-</ul></h3>
+##2Passo: Criação do banco de dados, ao fazer o download dos arquivos disponíveis aqui neste projeto existe um chamado dbcaixaeletronico.sql,  é através deste que será realizado a criação do banco, através do phpmyadmin disponível no Xampp, para isso o usuário deve criar o banco com o título  de dbcaixaeletronico em seguida importe o arquivo com extensão .sql.
+
+##3 Passo: como este projeto não está compilado é necessário que rode ele no netbeans IDE de desenvolvimento de projetos java, sendo necessários todos os requisitos exigidos para tal funcionalidade.
+</h3>
