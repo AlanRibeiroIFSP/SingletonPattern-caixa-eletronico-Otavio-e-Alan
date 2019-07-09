@@ -24,7 +24,7 @@ Possui um banco de dados MySQL, tendo como base um cliente e um servidor para de
 O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padrão de projeto Singleton. Detalhando o processo de envio dos dados entre cliente e servidor foi inserido o JSON, ele é um formato de representação de dados baseado na linguagem de programação Javascript, simplificando chave e valor, sendo um dos formatos mais utilizados para comunicação entre serviços web (webservices).
 </p></h4><hr>
 <h3><li>Passo a passo</li></h3>
-<h4><br>
+<h4>
 <ul><li align="justify">
  
 1º Passo: Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
