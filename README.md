@@ -1,6 +1,6 @@
-<table width="50%"><tr><td>
+<table width="40%"><tr><td><br>
 <h2><p align="center">RESUMO WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
-
+<br>
 <h4><p>
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
 </p><p>
@@ -11,9 +11,9 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 </p>
 </h4>
 
-
+<br>
 <h2><p align="center">Passo a passo para o funcionamento do projeto</p></h2>
-<h4>
+<h4><br>
 <ol>  
 <li>Passo:Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
  </li>
