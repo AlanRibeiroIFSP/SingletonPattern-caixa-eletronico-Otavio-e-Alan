@@ -7,7 +7,7 @@
       <li>JSON        </li>
      <li>BD MySQL</li> 
 </ul><br> 
- <h3><li>Resumo </li></h3>
+ <h3><li>Resumo Geral</li></h3>
  
 <h4><p  align="justify"  style="font-family: Verdana">
  
