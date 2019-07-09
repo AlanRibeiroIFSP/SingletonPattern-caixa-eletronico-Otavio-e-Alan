@@ -1,4 +1,4 @@
-<center> Atividade I</center>
+<p align="center"> Atividade I</p>
 <ol><hr>
 <h3><li>Tecnologias utilizadas </li></h3>
 <ul> 
