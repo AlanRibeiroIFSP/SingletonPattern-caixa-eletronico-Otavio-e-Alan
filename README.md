@@ -1,6 +1,6 @@
 <table width="40%" border="0"><tr><td><br>
  <ol>
-  <h3><li>Tecnologia utilizadas </li>
+  <h3><li>Tecnologia utilizadas </li></h3>
     <ul><font color="red">
       <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
@@ -10,7 +10,7 @@
     </ul>
   
  <br> 
- <li>Resumo </li></h3>
+ <h3><li>Resumo </li></h3>
  
  
 
