@@ -2,14 +2,14 @@
  <h2><p align="center"><b>WEBSERVICE + SOCKET + SINGLETON + BD MySQL + JSON</b></p></h2>    
  <ol>
   <li>Tecnologia utilizadas </li>
-   <ul>
+   <ol>
       <li>WEBSERVICE</li>
       <li>SOCKET</li>
       <li>SINGLETON</li> 
        <li>JSON</li>
-      <li>BD MySQL</li>
- 
-    </ul>
+      <li>BD MySQL</li> 
+    </ol>
+  
  <li>Resumo </li>
  
  
