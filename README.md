@@ -1,7 +1,7 @@
-<span style=color: green> Some green text </span>
+<center> Atividade I</center>
 <ol><hr>
 <h3><li>Tecnologias utilizadas </li></h3>
-<ul>
+<ul> 
       <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
