@@ -11,7 +11,7 @@
     </ul>
   
  </li>
- </li>Resumo </li>
+ <li>Resumo </li>
  
  
 <br>
@@ -26,7 +26,8 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 </h4>
 
 <br>
-<h2><p align="center">Passo a passo para o funcionamento do projeto</p></h2>
+ <li>Passo a passo para o funcionamento do projeto </li>
+
 <h4><br>
 <ol>  
 <li align="justify">Passo:Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
