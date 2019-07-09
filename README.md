@@ -1,4 +1,4 @@
-<table width="40%" border="0"><tr><td><br>
+
  <ol>
   <h3><li>Tecnologias utilizadas </li></h3>
     <ul>
@@ -47,7 +47,5 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 </h4>
 
 </ol>
-
-</td></tr></table>
 
 
