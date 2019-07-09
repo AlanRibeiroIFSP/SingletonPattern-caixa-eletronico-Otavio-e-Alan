@@ -1,16 +1,16 @@
 <table width="40%" border="0"><tr><td><br>
  <ol>
-  <h3><li>Tecnologia utilizadas </li> </h3>
-    <ul>
+  <h3><li>Tecnologia utilizadas </li>
+    <ul><font color="red">
       <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
       <li>JSON       </li>
-      <li>BD MySQL</li> 
+     <li>BD MySQL</li> </font>
     </ul>
   
  <br> 
- <h3><li>Resumo </li></h3>
+ <li>Resumo </li></h3>
  
  
 
