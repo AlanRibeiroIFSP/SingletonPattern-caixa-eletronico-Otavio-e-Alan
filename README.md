@@ -1,5 +1,5 @@
-<hr>
-<ol>
+
+<ol><hr>
 <h3><li>Tecnologias utilizadas </li></h3>
 <ul>
       <li><font color="red">WEBSERVICE </font> </li>
