@@ -1,12 +1,12 @@
 <table width="40%" border="0"><tr><td><br>
  <ol>
-  <h3><li>Tecnologia utilizadas </li></h3>
-    <ul><font color="red">
-      <li>WEBSERVICE  </li>
+  <h3><li>Tecnologias utilizadas </li></h3>
+    <ul>
+      <li><font color="red">WEBSERVICE </font> </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
       <li>JSON       </li>
-     <li>BD MySQL</li> </font>
+     <li>BD MySQL</li> 
     </ul>
   
  <br> 
@@ -28,7 +28,7 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 </p></h4>
 
  <br>
- <h3><li>Passo a passo para o funcionamento do projeto </li></h3>
+ <h3><li>Passo a passo</li></h3>
 
 <h4><br>
 <ul>  
