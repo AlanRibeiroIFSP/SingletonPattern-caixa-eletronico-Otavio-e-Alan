@@ -11,11 +11,11 @@
  <hr>     
  <h3><li>Resumo Geral</li></h3>
  
-<h4><p  align="justify"  style="font-family: Verdana">
+<h4><p  align="justify">
  
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
 
-<p>
+</p><p>
  
 A comunicação entre é realizada através de sockets java disponibilizadas para serem usadas por nós no pacote java.net.
 
