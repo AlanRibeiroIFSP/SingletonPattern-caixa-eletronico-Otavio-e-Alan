@@ -1,6 +1,3 @@
-
-<h3><p align="center">RESUMO</p></h3>
-
 <ol><hr>
 <h3><li>Tecnologias/padrões </li></h3>
 <ul> 
