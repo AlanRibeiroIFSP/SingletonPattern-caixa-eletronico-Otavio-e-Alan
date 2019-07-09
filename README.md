@@ -1,4 +1,4 @@
-<p align="center">RESUMO WEBSERVICE</p>     
+<h3><p align="center">RESUMO WEBSERVICE</p></h3>     
 
 <h4><p>
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
