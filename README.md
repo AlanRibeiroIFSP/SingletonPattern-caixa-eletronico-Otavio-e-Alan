@@ -1,4 +1,4 @@
-<div style="width:400px;">
+<table width="50%"><tr><td>
 <h2><p align="center">RESUMO WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
 
 <h4><p>
@@ -26,4 +26,6 @@ Passo: </b>como este projeto não está compilado é necessário que rode ele no
 </li>
 </ol>
 
-</h4></div>
+</h4>
+</td></tr></table>
+
