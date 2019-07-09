@@ -22,8 +22,7 @@ A comunicação entre é realizada através de sockets java disponibilizadas par
 Possui um banco de dados MySQL, tendo como base um cliente e um servidor para demonstrar foi utilizado dois projeto. O primeiro projeto (ServerSocket) é o server ou servidor que recebe várias soluções e através dele são feitas as queries com as operações do banco de dados.
 </p><p align="justify">      
 O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padrão de projeto Singleton. Detalhando o processo de envio dos dados entre cliente e servidor foi inserido o JSON, ele é um formato de representação de dados baseado na linguagem de programação Javascript, simplificando chave e valor, sendo um dos formatos mais utilizados para comunicação entre serviços web (webservices).
-</p></h4>
-<br><hr>
+</p></h4><hr>
 <h3><li>Passo a passo</li></h3>
 <h4><br>
 <ul><li align="justify">
