@@ -2,7 +2,7 @@
 <h3><p align="center">RESUMO</p></h3>
 
 <ol><hr>
-<h3><li>Tecnologias utilizadas </li></h3>
+<h3><li>Tecnologias/padrões </li></h3>
 <ul> 
       <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
