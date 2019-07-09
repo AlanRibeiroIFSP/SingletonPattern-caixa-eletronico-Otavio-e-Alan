@@ -1,3 +1,4 @@
+<hr>
 <ol>
 <h3><li>Tecnologias utilizadas </li></h3>
 <ul>
@@ -7,6 +8,7 @@
       <li>JSON        </li>
      <li>BD MySQL</li> 
 </ul><br> 
+ <hr>     
  <h3><li>Resumo Geral</li></h3>
  
 <h4><p  align="justify"  style="font-family: Verdana">
@@ -22,7 +24,7 @@ Possui um banco de dados MySQL, tendo como base um cliente e um servidor para de
 O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padrão de projeto Singleton. Detalhando o processo de envio dos dados entre cliente e servidor foi inserido o JSON, ele é um formato de representação de dados baseado na linguagem de programação Javascript, simplificando chave e valor, sendo um dos formatos mais utilizados para comunicação entre serviços web (webservices).
 </p></h4>
 
- <br>
+ <br><hr>
  <h3><li>Passo a passo</li></h3>
 
 <h4><br>
