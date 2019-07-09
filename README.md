@@ -1,12 +1,16 @@
 <table width="40%" border="0"><tr><td><br>
  <h2><p align="center"><b>WEBSERVICE + SOCKET + SINGLETON + BD MySQL + JSON</b></p></h2>    
- 
+ <ol>
+  <li>Tecnologia utilizadas </li>
    <ul>
       <li>WEBSERVICE</li>
       <li>SOCKET</li>
-      <li>SINGLETON</li>
-    </ul>
+      <li>SINGLETON</li> 
+       <li>JSON</li>
+      <li>BD MySQL</li>
  
+    </ul>
+ <li>Resumo </li>
  
  
 <br>
@@ -36,5 +40,9 @@ Passo: </b>como este projeto não está compilado é necessário que rode ele no
 </ol>
 
 </h4>
+
+</ol>
+
 </td></tr></table>
+
 
