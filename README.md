@@ -9,22 +9,25 @@
       <li>BD MySQL</li> 
     </ul>
   
- </li>
+ <br> 
  <h3><li>Resumo </li></h3>
  
  
-<br>
+
 <h4><p  align="justify"  style="font-family: Verdana">
+ 
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
+
 </p><p  align="justify">
+ 
 A comunicação entre é realizada através de sockets java disponibilizadas para serem usadas por nós no pacote java.net.
+
 <p  align="justify">
 Possui um banco de dados MySQL, tendo como base um cliente e um servidor para demonstrar foi utilizado dois projeto. O primeiro projeto (ServerSocket) é o server ou servidor que recebe várias soluções e através dele são feitas as queries com as operações do banco de dados.
 O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padrão de projeto Singleton. Detalhando o processo de envio dos dados entre cliente e servidor foi inserido o JSON, ele é um formato de representação de dados baseado na linguagem de programação Javascript, simplificando chave e valor, sendo um dos formatos mais utilizados para comunicação entre serviços web (webservices).
-</p>
-</h4>
+</p></h4>
 
-<br>
+ <br>
  <h3><li>Passo a passo para o funcionamento do projeto </li></h3>
 
 <h4><br>
