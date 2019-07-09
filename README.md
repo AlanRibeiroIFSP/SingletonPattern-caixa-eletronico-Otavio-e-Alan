@@ -1,6 +1,6 @@
 <table width="40%" border="0"><tr><td><br>
  <ol>
-  <li><h3>Tecnologia utilizadas  <ul>
+  <h3><li>Tecnologia utilizadas  <ul></h3>
       <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
@@ -9,7 +9,7 @@
     </ul>
   
  </li>
- <li><h3>Resumo </h3></li>
+ <h3><li>Resumo </li></h3>
  
  
 <br>
@@ -24,7 +24,7 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 </h4>
 
 <br>
- <li><h3>Passo a passo para o funcionamento do projeto </h3></li>
+ <h3><li>Passo a passo para o funcionamento do projeto </li></h3>
 
 <h4><br>
 <ul>  
