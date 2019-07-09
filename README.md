@@ -1,4 +1,4 @@
-<h2><p align="center">RESUMO WEBSERVICE</p></h2>     
+<h2><p align="center">RESUMO WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
 
 <h4><p>
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
@@ -14,7 +14,7 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 <h2><p align="center">Passo a passo para o funcionamento do projeto</p></h2>
 <h4>
 <ol>  
-<li>Passo: Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
+ <h3><li>Passo:</h3> Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
  </li>
  <br> 
 <li>Passo: Criação do banco de dados, ao fazer o download dos arquivos disponíveis aqui neste projeto existe um chamado dbcaixaeletronico.sql,  é através deste que será realizado a criação do banco, através do phpmyadmin disponível no Xampp, para isso o usuário deve criar o banco com o título  de dbcaixaeletronico em seguida importe o arquivo com extensão .sql.
