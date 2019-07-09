@@ -1,5 +1,5 @@
 <table width="40%" border="0"><tr><td><br>
-<h2><p align="center">RESUMO WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
+<h2><p align="center">WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
 <br>
 <h4><p  align="justify"  style="font-family: Verdana">
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
