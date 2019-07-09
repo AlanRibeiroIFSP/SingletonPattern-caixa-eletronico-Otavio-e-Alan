@@ -1,3 +1,6 @@
+
+<h3><p align="center">RESUMO</p></h3>
+
 <ol><hr>
 <h3><li>Tecnologias utilizadas </li></h3>
 <ul> 
@@ -9,7 +12,7 @@
       <li>JAVA        </li> 
 </ul><br> <hr>   
       
-<h3><li>Resumo Geral</li></h3>
+<h3><li>Descrição Geral</li></h3>
  
 <h4><p align="justify">
  
