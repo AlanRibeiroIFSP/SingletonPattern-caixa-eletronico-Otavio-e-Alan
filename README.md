@@ -1,16 +1,17 @@
 <table width="40%" border="0"><tr><td><br>
  <h2><p align="center"><b>WEBSERVICE + SOCKET + SINGLETON + BD MySQL + JSON</b></p></h2>    
  <ol>
-  <li>Tecnologia utilizadas </li>
-   <ol>
-      <li>WEBSERVICE</li>
-      <li>SOCKET</li>
-      <li>SINGLETON</li> 
-       <li>JSON</li>
+  <li>Tecnologia utilizadas 
+   <ul>
+      <li>WEBSERVICE  </li>
+      <li>SOCKET      </li>
+      <li>SINGLETON   </li> 
+      <li>JSON       </li>
       <li>BD MySQL</li> 
-    </ol>
+    </ul>
   
- <li>Resumo </li>
+ </li>
+ </li>Resumo </li>
  
  
 <br>
