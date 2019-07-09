@@ -1,4 +1,4 @@
-<font color=green> Some green text </font>
+<span style=color: green> Some green text </span>
 <ol><hr>
 <h3><li>Tecnologias utilizadas </li></h3>
 <ul>
