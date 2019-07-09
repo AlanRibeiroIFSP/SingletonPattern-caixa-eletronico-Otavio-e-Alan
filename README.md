@@ -1,4 +1,4 @@
-<table width="40%" ><tr><td><br>
+<table width="40%" border="0"><tr><td><br>
 <h2><p align="center">RESUMO WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
 <br>
 <h4><p  align="justify">
