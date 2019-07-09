@@ -1,7 +1,7 @@
 <table width="40%" border="0"><tr><td><br>
 <h2><p align="center">RESUMO WEBSERVICE + SOCKET + SINGLETON + BD MySQL</p></h2>     
 <br>
-<h4><p  align="justify">
+<h4><p  align="justify"  style="font-family: Verdana">
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
 </p><p  align="justify">
 A comunicação entre é realizada através de sockets java disponibilizadas para serem usadas por nós no pacote java.net.
