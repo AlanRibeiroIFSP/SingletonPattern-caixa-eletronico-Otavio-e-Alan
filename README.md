@@ -1,19 +1,14 @@
-
- <ol>
-  <h3><li>Tecnologias utilizadas </li></h3>
-    <ul>
+<ol>
+<h3><li>Tecnologias utilizadas </li></h3>
+<ul>
       <li><font color="red">WEBSERVICE </font> </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
-      <li>JSON       </li>
+      <li>JSON        </li>
      <li>BD MySQL</li> 
-    </ul>
-  
- <br> 
+</ul><br> 
  <h3><li>Resumo </li></h3>
  
- 
-
 <h4><p  align="justify"  style="font-family: Verdana">
  
 Este projeto é baseado em Padrões de Projetos (Design Patterns) chamado Singleton. O Padrão Singleton tem como definição garantir que uma classe tenha apenas uma instância de si mesma e que forneça um ponto global de acesso a ela.
@@ -31,21 +26,21 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
  <h3><li>Passo a passo</li></h3>
 
 <h4><br>
-<ul>  
+<ul><li align="justify">
  
-<li align="justify">1º Passo:Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
- </li>
- <br> 
-<li  align="justify"><b>2º Passo:</b> Criação do banco de dados, ao fazer o download dos arquivos disponíveis aqui neste projeto existe um chamado dbcaixaeletronico.sql,  é através deste que será realizado a criação do banco, através do phpmyadmin disponível no Xampp, para isso o usuário deve criar o banco com o título  de dbcaixaeletronico em seguida importe o arquivo com extensão .sql.
-</li>
- <br>
+1º Passo:Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
+ 
+</li> <br> 
+<li  align="justify"><b>
+ 
+2º Passo:</b> Criação do banco de dados, ao fazer o download dos arquivos disponíveis aqui neste projeto existe um chamado dbcaixaeletronico.sql,  é através deste que será realizado a criação do banco, através do phpmyadmin disponível no Xampp, para isso o usuário deve criar o banco com o título  de dbcaixaeletronico em seguida importe o arquivo com extensão .sql.
+</li><br>
 <b><li  align="justify">
 3º Passo: </b>como este projeto não está compilado é necessário que rode ele no netbeans IDE de desenvolvimento de projetos java, sendo necessários todos os requisitos exigidos para tal funcionalidade.
+
 </li>
 </ul>
-
 </h4>
-
 </ol>
 
 
