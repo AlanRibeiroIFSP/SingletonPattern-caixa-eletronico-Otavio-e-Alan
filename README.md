@@ -14,7 +14,7 @@ O segundo projeto (CaixaEletronico) é a parte cliente, caracterizada com o padr
 <h2><p align="center">Passo a passo para o funcionamento do projeto</p></h2>
 <h4>
 <ol>  
- <h3><li>Passo:</h3> Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
+<li>Passo:Instalar um servidor web, neste projeto foi utilizado o Xampp que fornece um pacote com banco de dados servidor e Apache e entre outros.
  </li>
  <br> 
 <li>Passo: Criação do banco de dados, ao fazer o download dos arquivos disponíveis aqui neste projeto existe um chamado dbcaixaeletronico.sql,  é através deste que será realizado a criação do banco, através do phpmyadmin disponível no Xampp, para isso o usuário deve criar o banco com o título  de dbcaixaeletronico em seguida importe o arquivo com extensão .sql.
