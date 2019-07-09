@@ -1,6 +1,7 @@
 <table width="40%" border="0"><tr><td><br>
  <ol>
-  <h3><li>Tecnologia utilizadas  <ul></h3>
+  <h3><li>Tecnologia utilizadas </li> </h3>
+    <ul>
       <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
