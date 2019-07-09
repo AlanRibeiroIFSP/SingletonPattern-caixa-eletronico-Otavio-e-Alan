@@ -7,7 +7,7 @@
       <li>JSON        </li>
       <li>BD MySQL    </li> 
       <li>JAVA        </li> 
-</ul><br> <hr>   
+</ul><hr>   
       
 <h3><li>Descrição Geral</li></h3>
  
