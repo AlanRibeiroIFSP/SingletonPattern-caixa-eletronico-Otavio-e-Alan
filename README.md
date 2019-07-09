@@ -2,11 +2,12 @@
 <ol><hr>
 <h3><li>Tecnologias utilizadas </li></h3>
 <ul>
-      <li><font color="red">WEBSERVICE </font> </li>
+      <li>WEBSERVICE  </li>
       <li>SOCKET      </li>
       <li>SINGLETON   </li> 
       <li>JSON        </li>
-     <li>BD MySQL</li> 
+      <li>BD MySQL    </li> 
+      <li>JAVA        </li> 
 </ul><br> 
  <hr>     
  <h3><li>Resumo Geral</li></h3>
